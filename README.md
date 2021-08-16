@@ -1,18 +1,26 @@
 ### Introduction
 
 - ✨ My name is Adam Piaseczny and I like to solve problems.
+- 
 ### Skills 
 
-- Intermediate in python
-  - Written a python application (SpareSnack) to track meals daily
-- Moderate in java (written an weight tracking application in JavaFX)
-- Learning Javascript (beginner)
-  - Writing the front-end details for the SpareSnack website
-- Fluent in the unix terminal
-- Learning about docker and contenerisation
+- **SpareSnack**
+  - a Django Python website
+  - ORM and migration management
+  - REST serialization
+  - Basic javascript for front-end functionality (like autosave)
 
-### Special skills
+- **Fasting tracker**
+  - A intermediate fasting application written in Java
+  - JavaFX controller and embedded database integration
 
-- Fluent in vim
-- Moderate at writing bash and batch scripts
-- Able to do heroku management
+- **Scripting**
+  - Bash (linux shell)
+  - Batch (DOS script files)
+
+ - **Additional skills**
+  - Linux system management
+  - Vim fluency
+  - Helped set up a nextcloud FreeBSD server for file synchronisation
+  - Heroku management
+  - Enjoying jazz while working 
