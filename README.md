@@ -14,5 +14,5 @@
 ### Special skills
 
 - Fluent in vim
-- Moderate at writing bash and powershell scripts
+- Moderate at writing bash and batch scripts
 - Able to do heroku management
