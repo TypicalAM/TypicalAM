@@ -18,7 +18,7 @@
   - Bash (linux shell)
   - Batch (DOS script files)
 
- - **Additional skills**
+- **Additional skills**
   - Linux system management
   - Vim fluency
   - Helped set up a nextcloud FreeBSD server for file synchronisation
