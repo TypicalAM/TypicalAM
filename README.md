@@ -23,4 +23,4 @@
   - Vim fluency
   - Helped set up a nextcloud FreeBSD server for file synchronisation
   - Heroku management
-  - Enjoying jazz while working 
+  - Passionate about dieting and exercise
