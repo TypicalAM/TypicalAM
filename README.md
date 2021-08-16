@@ -1,7 +1,7 @@
 ### Introduction
 
-- ✨ My name is Adam Piaseczny and I like to solve problems.
-- 
+- My name is **Adam Piaseczny** and I like to solve problems.
+- I am a first year computer science student
 ### Skills 
 
 - **SpareSnack**
