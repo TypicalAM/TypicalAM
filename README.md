@@ -14,6 +14,10 @@
   - A intermediate fasting application written in Java
   - JavaFX controller and embedded database integration
 
+- **RecipeScrape**
+  - Scraping the web with beautifulsoup
+  - Regex pattern matching
+
 - **Scripting**
   - Bash (linux shell)
   - Batch (DOS script files)
