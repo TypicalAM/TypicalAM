@@ -23,6 +23,11 @@
   - Scraping the web with beautifulsoup
   - Regex pattern matching
 
+- **Minecraft Discord Bot**
+
+  - Asynchronous python
+  - Interprocess communications
+
 - **Scripting**
   
   - Bash (linux shell)
