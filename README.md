@@ -28,13 +28,9 @@
   - Asynchronous python
   - Interprocess communications
 
-- **Mini bash projects**
-  - Bookmark Search 
-
-- **Scripting**
-  
-  - Bash (linux shell)
-  - Batch (DOS script files)
+- **Mini shell projects**
+  - Bookmark Search
+  - Wallpaper Changer 
 
 - **Additional skills**
   
