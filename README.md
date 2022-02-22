@@ -28,6 +28,9 @@
   - Asynchronous python
   - Interprocess communications
 
+- **Mini bash projects**
+  - Bookmark Search 
+
 - **Scripting**
   
   - Bash (linux shell)
