@@ -12,6 +12,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"></img>
+<img src="https://avatars.githubusercontent.com/u/2624634?s=200&v=4" width="40" height="40"></img>
+<img src="https://avatars.githubusercontent.com/u/7894478?s=200&v=4" width="40" height="40"></img>
 </p>
 
 <h3 align="left">Stats:</h3>
